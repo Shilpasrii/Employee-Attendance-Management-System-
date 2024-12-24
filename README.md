@@ -31,7 +31,7 @@ Manage employee records efficiently with this Employee Management System, a Pyth
 
 ## Prerequisites
 
-Before you get started, ensure you have the following components installed on your system:
+Before you get started, ensure you have the following components are installed on your system:
 
 - **Python (3.x recommended):** [Download Python](https://www.python.org/downloads/)
 
