@@ -15,7 +15,7 @@ Manage employee records efficiently with this Employee Management System, a Pyth
 
 ## Features
 
-- **Add Employees:** Easily input employee details, including name, email, phone number, address, post, and salary.
+- **Add Employees:** Easily input employee details, including name, email, phone number, address, post and salary.
 
 - **Display Records:** View a list of all employee records in an organized manner.
 
