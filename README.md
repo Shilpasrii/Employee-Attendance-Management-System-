@@ -59,7 +59,7 @@ To run the Employee Management System, execute the following command:
 > python employee_management_system.py
 
 ## Database Setup
-Before using the system, you need to set up the MySQL database and table. Follow these steps:
+Before using the system,you need to set up the MySQL database and table. Follow these steps:
 
 1. Log in to MySQL as the root user:
 > mysql -u root -p
@@ -82,7 +82,7 @@ Before using the system, you need to set up the MySQL database and table. Follow
 );
 
 
-Now, you can use the Employee Management System with the MySQL database.
+Now , you can use the Employee Management System with the MySQL database.
 
 ## Contributing
 If you would like to contribute to this project or report issues, please follow the guidelines outlined in CONTRIBUTING.md.
