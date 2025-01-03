@@ -1,7 +1,7 @@
 
 # Employee Management System Using Python and MySQL
 
-Manage employee records efficiently with this Employee Management System, a Python program backed by a MySQL database. This system offers essential functions for adding, displaying, updating, promoting, removing, and searching for employee records.
+Manage employee records efficiently with this Employee Management System, a Python program backed by a MySQL database. This system offers essential functions for adding, displaying, updating, promoting, removing and searching for the employee records.
 
 ## Table of Contents
 
@@ -85,4 +85,4 @@ Before using the system,you need to set up the MySQL database and table. Follow 
 Now , you can use the Employee Management System with the MySQL database.
 
 ## Contributing
-If you would like to contribute to this project or report issues, please follow the guidelines outlined in CONTRIBUTING.md.
+If you would like to contribute to this project or report issues, please follow the guidelines outlined in the CONTRIBUTING.md.
