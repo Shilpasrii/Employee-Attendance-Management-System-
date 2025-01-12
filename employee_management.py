@@ -62,7 +62,7 @@ def Add_Employ():
     press = input("Press Any Key To Continue..")
     menu()
 
-# Function To Check if Employee With
+# Function To Check if Employee With the
 # given Name Exist or not
 def check_employee_name(employee_name):
     # query to select all Rows from
