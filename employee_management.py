@@ -4,7 +4,7 @@ import re
 # importing mysql connector
 import mysql.connector
 
-# making Connection
+# making the Connection
 con = mysql.connector.connect(
     host="localhost", user="root", password="root", database="employee")
 
