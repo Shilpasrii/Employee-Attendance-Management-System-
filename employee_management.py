@@ -9,7 +9,7 @@ con = mysql.connector.connect(
     host="localhost", user="root", password="root", database="employee")
 
 # make a regular expression
-# for validating an Email
+# for validating an Email.
 regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 # for validating an Phone Number
 Pattern = re.compile("(0|91)?[7-9][0-9]{9}")
