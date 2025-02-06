@@ -25,7 +25,7 @@ def Add_Employ():
         press = input("Press Any Key To Continue..")
         Add_Employ()
     Name = input("Enter Employee Name: ")
-    # checking If Employee Name is Exit Or Not
+    # checking If Employee Name Exit Or Not
     if (check_employee_name(Name) == True):
         print("Employee Name Already Exists\nTry Again..")
         press = input("Press Any Key To Continue..")
